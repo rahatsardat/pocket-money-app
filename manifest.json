@@ -1,0 +1,23 @@
+{
+  "name": "ডেইলি পকেট মানি",
+  "short_name": "পকেট মানি",
+  "description": "প্রতিদিন টাস্ক ও রেফার করে আয় করুন।",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ECEFF1",
+  "theme_color": "#5E35B1",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
